@@ -181,7 +181,7 @@ export default {
     cursor: pointer;
 
     &:hover {
-      color: darken(#0b868f, 20%);
+      color: #113e41;
     }
   }
 

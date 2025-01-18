@@ -56,7 +56,7 @@ export default {
     }
     &:hover {
       &:not(:disabled) {
-        background-color: darken(#0b868f, 10%);
+        background-color: #096f77;
       }
     }
   }

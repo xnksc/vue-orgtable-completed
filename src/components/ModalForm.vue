@@ -272,7 +272,7 @@ button {
     }
 
     &:hover:not(:disabled) {
-      background-color: darken($focus-border, 10%);
+      background-color: #096f77
     }
   }
 }
