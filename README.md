@@ -20,4 +20,4 @@ npm run build
 - Пагинация + роутинг
 - Небольшая адаптивность
 
-<img src="https://i.postimg.cc/3ry5WhW9/image.png" width="300"/>
+<img src="https://i.postimg.cc/3ry5WhW9/image.png" alt="Таблица организаций" width="1000"/>
